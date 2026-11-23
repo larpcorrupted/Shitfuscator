@@ -1,0 +1,2 @@
+# Shitfuscator
+Roblox lua obfuscator
